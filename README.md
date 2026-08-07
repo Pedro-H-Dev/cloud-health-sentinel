@@ -21,3 +21,6 @@ Demonstrar competência em automação de infraestrutura, integração com APIs 
    ```bash
    git clone [https://github.com/Pedro-H-Dev/cloud-health-sentinel.git](https://github.com/Pedro-H-Dev/cloud-health-sentinel.git)
    cd cloud-health-sentinel
+   ```
+
+   ### Feito com 💻 por Pedro H.
